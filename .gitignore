@@ -77,7 +77,8 @@ ignore_this.txt
 # Cline files
 memory-bank
 .claude/CLAUDE.md
-.claude/
+.claude/*/
+!.claude/skills/
 
 # Claude Code
 CLAUDE.md
